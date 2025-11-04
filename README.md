@@ -30,7 +30,7 @@
 
 - **🏡 Real Estate Platform (México)** — Portal inmobiliario con **Next.js + React**
 - **🚚 Cargo Loop** — App de delivery con **Flutter + MySQL**
-- **🛠️ Dirvello** — App móvil para gestión de proyectos, inventarios y usuarios (**Flutter**)
+- **🛠️ Dirvello** — App móvil para gestión de proyectos, inventarios y usuarios (**Flutter +  Firebase**)
 
 ---
 
