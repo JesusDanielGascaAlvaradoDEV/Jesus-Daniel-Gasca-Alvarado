@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats & Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exalariacrew&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDanielGascaAlvaradoDEV&layout=compact&langs_count=10)
 
 ## 🎨 Tech Icons
 
